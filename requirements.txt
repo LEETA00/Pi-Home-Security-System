@@ -1,0 +1,2 @@
+gpiozero
+# picamera2 is preinstalled on Raspberry Pi OS (sudo apt install -y python3-picamera2)
